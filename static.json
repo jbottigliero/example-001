@@ -7,6 +7,9 @@
   "data": {
     "version": "1.0.0",
     "attributes": {
+      "theme": {
+        "colorScheme": "blue"
+      },
       "content": {
         "title": "Product Meeting",
         "privacy_policy": "Hello, world! This is an example privacy policy – you should replace this with your own policy.",
